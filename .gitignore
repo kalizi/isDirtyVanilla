@@ -1,0 +1,18 @@
+# VSCode stuff
+.vscode
+.vscode-test
+
+# Dependencies directory
+node_modules/
+
+yarn.lock
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Coverage directory used by tools like istanbul
+coverage
